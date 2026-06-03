@@ -8,11 +8,11 @@
 
 | No | Nama             | NIM   | Tanggung Jawab                                                         |
 | -- | ---------------- | ----- | ---------------------------------------------------------------------- |
-| 1  | [Nama Anggota 1] | [NIM] | Membuat database, tabel, relasi, dan data awal                         |
-| 2  | [Nama Anggota 2] | [NIM] | Membuat perhitungan nilai akhir menggunakan variabel                   |
-| 3  | [Nama Anggota 3] | [NIM] | Membuat percabangan grade, bobot, status kelulusan, dan perulangan     |
-| 4  | [Nama Anggota 4] | [NIM] | Membuat implicit cursor, explicit cursor, dan cursor dengan parameter  |
-| 5  | [Nama Anggota 5] | [NIM] | Membuat dokumentasi, laporan PDF, README GitHub, dan pengujian program |
+| 1  | [Winda Anugrah] | [IK2411016] | Membuat database, tabel, relasi, dan data awal                         |
+| 2  | [Suharnina Aksan] | [IK2411001] | Membuat perhitungan nilai akhir menggunakan variabel                   |
+| 3  | [Nur Octavia Kaila Ramadhani] | [IK2411038] | Membuat percabangan grade, bobot, status kelulusan, dan perulangan     |
+| 4  | [Dzubyan Fauzan. S] | [IK2411005] | Membuat implicit cursor, explicit cursor, dan cursor dengan parameter  |
+| 5  | [Nur Afni Ishar] | [IK2411046] | Membuat dokumentasi, laporan PDF, README GitHub, dan pengujian program |
 
 ---
 
